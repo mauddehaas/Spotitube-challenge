@@ -1,0 +1,18 @@
+.jumbotron {
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 25em;
+    margin: auto;
+    
+    
+}
+body{
+    overflow-x:hidden;
+    
+}
+#plusimg{
+    font-size:100px; color:black;
+}
+.minheight{
+    min-height: 30rem
+}
